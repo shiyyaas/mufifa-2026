@@ -4,7 +4,7 @@
 
 ## About Me
 
- I am **Shiyas PS**, a BCA Honours student who is deeply interested in software development, building practical products, and continuously learning modern technologies through real-world projects. I believe the best way to learn is by building, experimenting, and solving actual problems rather than relying only on theory.
+ I am **Shiyas PS**, a BCA Honours student from MES MK MACKAR PILLAY COLLEGE FOR ADVANCED STUDIES EDATHALA, who is deeply interested in software development, building practical products, and continuously learning modern technologies through real-world projects. I believe the best way to learn is by building, experimenting, and solving actual problems rather than relying only on theory.
 
  My work mainly revolves around **Flutter development, frontend web development, backend integration, AI-assisted development, and product building**. I enjoy building applications that solve real-world problems, especially projects related to education systems, automation, and developer-focused tools. I actively use AI tools to accelerate development workflows and improve productivity while learning modern engineering practices.
 
