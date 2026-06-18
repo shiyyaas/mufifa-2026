@@ -145,7 +145,7 @@ I regularly collaborate with other developers, teach technical concepts when pos
 
 **Degree:** Bachelor of Computer Applications (Honours)
 
-**Institution:** MES College *(edit exact college name if needed)*
+**Institution:** MES Mk MACKAR PILLAY COLLEGE FOR ADVANCED STUDIES EDATHALA 
 
 ---
 
